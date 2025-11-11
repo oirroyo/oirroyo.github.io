@@ -23,7 +23,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   and high-performance aerospace systems through analytical thinking, collaboration, and creative design.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: assets/images/profile-image/me.jpeg
+profile_image: ./assets/images/profile-image/me.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
