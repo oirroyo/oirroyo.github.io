@@ -79,26 +79,8 @@ skills:
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key: 
-<form
-  action="https://formspree.io/f/xldaenoy"
-  method="POST"
->
-<label>
-    Name:
-    <input type="name" name="name">
-  </label>
-  <label>
-    Email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
+formspree-key: https://formspree.io/f/xldaenoy
+
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
   text: "#2d2d2d"
