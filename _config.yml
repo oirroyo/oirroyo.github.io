@@ -79,20 +79,21 @@ skills:
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key: <form
+formspree-key: 
+<form
   action="https://formspree.io/f/xldaenoy"
   method="POST"
 >
 <label>
-    Your name:
+    Name:
     <input type="name" name="name">
   </label>
   <label>
-    Your email:
+    Email:
     <input type="email" name="email">
   </label>
   <label>
-    Your message:
+    Message:
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
