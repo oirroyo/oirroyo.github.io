@@ -13,10 +13,11 @@ title: Kiana Arroyo's Portfolio # This is what shows up in the tab of the browse
 
 # Hero Section
 name: Kiana Arroyo
-headline: headline message
+headline: About me.
 description: >- # dont remove this line. this will ignore all new lines until the next section
   I’m an emerging aerospace engineer driven by curiosity and innovation in aircraft design, aerodynamics, and flight systems.
   My experience spans structural design, stability analysis, and control system development for both manned and unmanned platforms. 
+  
   I’ve contributed to projects ranging from UAV flight control systems and high-altitude structural concepts to launch vehicle and passenger aircraft design.
   With a strong foundation in MATLAB/Simulink, fine - element analysis and aerodynamic modeling tools, I enjoy transforming complex engineering challenges into practical, efficient solutions.
   I’m passionate about advancing sustainable and high-performance aerospace systems through analytical thinking, collaboration, and creative design.
