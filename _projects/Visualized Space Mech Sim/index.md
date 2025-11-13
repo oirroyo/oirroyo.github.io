@@ -9,5 +9,6 @@ skills:
 - Mathematical Modeling
 - Simulation
 - Technical Reporting
+- Problem Solving
 main-image: /liveeditor2.png
 ---
