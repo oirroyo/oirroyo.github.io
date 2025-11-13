@@ -9,5 +9,5 @@ skills:
 - Microsoft Excel Modeling
 - Team Collaboration
 - Project Management
-main-image: /project.webp 
+main-image: /_projects/AeroWall/624905_1_En_3_Fig9_HTML.png
 ---
