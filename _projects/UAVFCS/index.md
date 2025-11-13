@@ -9,5 +9,5 @@ skills:
 - Simulation Development
 - System Integration
 - Testing & Validation
-main-image: /project.webp 
+main-image: /simulink-onramp.png
 ---
