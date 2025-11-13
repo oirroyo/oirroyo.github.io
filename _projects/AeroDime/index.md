@@ -7,5 +7,5 @@ skills:
 - Problem Solving & Innovation
 - UAV Flight
 - Aerial Photography/Videography
-main-image: /Parrot-Bluegrass-34.webp 
+main-image: /_projects/AeroDime/Parrot-Bluegrass-34.webp
 ---
