@@ -10,5 +10,5 @@ skills:
 - Analytical Calculations
 - Data Interpretation
 - Team Collaboration
-main-image: /project.webp 
+main-image: /images.jpg 
 ---
