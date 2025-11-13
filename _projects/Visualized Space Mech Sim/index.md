@@ -9,5 +9,5 @@ skills:
 - Mathematical Modeling
 - Simulation
 - Technical Reporting
-main-image: /project.webp 
+main-image: /liveeditor2.png
 ---
