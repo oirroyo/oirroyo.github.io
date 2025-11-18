@@ -11,5 +11,5 @@ skills:
 - Autodesk Inventor
 - Fusion 360
 -XFOIL
-main-image: /2-Gear Drawing.png 
+main-image: /2-Gear Drawing.jpg 
 ---
