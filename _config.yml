@@ -35,7 +35,7 @@ resume-url: ./assets/resume/Resume_Arroyo Nov 2025.pdf # or /assets/resume/resum
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: karroyo    # https://www.linkedin.com/in/{your url slug} 
   github: oirroyo    # https://github.com/{your url slug} 
-  stackoverflow:      # https://stackoverflow.com/users/{your url slug}
+  google drive: 1kb9l6zuHp7MsksU8_7ESSOSb7mODszSn    # https://drive.google.com/drive/folders/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
