@@ -10,3 +10,4 @@ skills:
 main-image: /Parrot-Bluegrass-34.webp
 ---
 ## AeroDime Concept Video
+school-vid: /yt1s.com - Apopka High School Drone Tank Idea_360p.mp4
