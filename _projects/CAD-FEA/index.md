@@ -10,6 +10,6 @@ skills:
 - Simulink
 - Autodesk Inventor
 - Fusion 360
--XFOIL
+- XFOIL
 main-image: /2-Gear Drawing.jpg 
 ---
