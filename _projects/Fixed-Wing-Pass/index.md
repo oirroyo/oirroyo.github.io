@@ -14,4 +14,4 @@ skills:
 main-image: /Picture1.png
 ---
 ## Technical Portfolio
-[GitHub](github.com/oirroyo/PAD)
+Located on GitHub Profile.
