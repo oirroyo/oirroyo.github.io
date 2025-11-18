@@ -13,5 +13,5 @@ skills:
 - Engineering Drawings
 - Microsoft Excel
 - Presenting
-main-image: /sparm.webp 
+main-image: /sparm.png
 ---
