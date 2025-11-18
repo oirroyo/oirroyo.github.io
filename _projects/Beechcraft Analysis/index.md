@@ -13,4 +13,4 @@ skills:
 main-image: /images.jpg 
 ---
 ## Technical Portfolio
-[GitHub](github.com/oirroyo/BeechcraftFSA)
+Located on GitHub Profile.
