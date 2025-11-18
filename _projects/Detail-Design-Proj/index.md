@@ -15,3 +15,5 @@ skills:
 - Presenting
 main-image: /sparm.png
 ---
+## Technical Portfolio
+[GitHub](github.com/oirroyo/DSD)
