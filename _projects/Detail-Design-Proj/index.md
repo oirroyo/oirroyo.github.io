@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aircraft Detailed Design Analysis
-description: Designed the high-wing pylon and strut system for a UAV targeting stratospheric flight; performed cross-sectional sizing, modeling and static load analysis under FAA standards.
+description: With a team, designed the high-wing pylon and strut system for a UAV targeting stratospheric flight; performed cross-sectional sizing, modeling and static load analysis under FAA standards.
 skills: 
 - Structural Analysis
 - Load Analysis
