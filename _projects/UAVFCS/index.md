@@ -12,4 +12,4 @@ skills:
 main-image: /simulink-onramp.png
 ---
 ## Technical Portfolio
-[GitHub](github.com/oirroyo/UAVFCS)
+Located on GitHub Profile.
