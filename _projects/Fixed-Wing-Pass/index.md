@@ -11,5 +11,5 @@ skills:
 - Project Management
 - Cross-Functional Teamwork
 - Technical Presentation
-main-image: /project.webp 
+main-image: /_projects/Fixed-Wing-Pass/Picture1.png
 ---
