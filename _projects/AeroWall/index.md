@@ -12,4 +12,4 @@ skills:
 main-image: /624905_1_En_3_Fig9_HTML.png
 ---
 ## Technical Portfolio
-[GitHub](github.com/oirroyo/AeroWall)
+Located on GitHub Profile.
