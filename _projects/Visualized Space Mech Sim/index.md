@@ -13,4 +13,4 @@ skills:
 main-image: /liveeditor2.png
 ---
 ## Technical Portfolio
-[GitHub](github.com/oirroyo/STM)
+Located on GitHub Profile.
