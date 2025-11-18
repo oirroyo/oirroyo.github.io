@@ -10,4 +10,4 @@ skills:
 main-image: /Parrot-Bluegrass-34.webp
 ---
 ## Technical Portfolio
-[GitHub](github.com/oirroyo/AeroDime)
+Located on GitHub Profile.
