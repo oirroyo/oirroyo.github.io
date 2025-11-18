@@ -12,3 +12,5 @@ skills:
 - Problem Solving
 main-image: /liveeditor2.png
 ---
+## Technical Portfolio
+[GitHub](github.com/oirroyo/STM)
