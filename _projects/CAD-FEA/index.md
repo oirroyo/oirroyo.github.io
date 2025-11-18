@@ -13,5 +13,5 @@ skills:
 - XFOIL
 main-image: /2-Gear Drawing.jpg 
 ---
-** Technical Portfolio
+## Technical Portfolio
 [Google Drive](https://drive.google.com/drive/folders/1kb9l6zuHp7MsksU8_7ESSOSb7mODszSn?usp=sharing)
